@@ -1,5 +1,5 @@
-Print("This is git information")
-this is no right
+print("This is git information")
+print("this is no right")
 
 #The FOR loop
 # fruits = ["mangoes", "oranges", "grapes"]
@@ -281,6 +281,8 @@ score1 = []
 print("Average of score1: ", get_average(score1))
 
 #INIT
+
+print("Name")
 
 
 
